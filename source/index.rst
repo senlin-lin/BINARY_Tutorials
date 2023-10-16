@@ -15,3 +15,5 @@ BINARY
    Tissue continuity visualization/Tissue continuity visualization
    Multi-slice joint training/Multi-slice joint training
    Extend to spatial proteomics data/Extend to spatial proteomics data
+
+`Check Multi-slice joint training <Multi-slice joint training/Multi-slice joint training.rst>`
