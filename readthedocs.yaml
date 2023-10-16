@@ -1,4 +1,4 @@
-version: laster
+version: latest
 
 sphinx:
   configuration: source/conf.py
