@@ -1,6 +1,6 @@
 Extend to spatial proteomics data
+=================================
 
-=============================================
 .. toctree::
    :maxdepth: 1
    
