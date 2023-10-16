@@ -5,7 +5,8 @@ sphinx:
 
 formats:
   - pdf
-  - html
+  - epub
+  - htmlzip
 
 
 python:
