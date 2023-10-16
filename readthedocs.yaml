@@ -1,4 +1,4 @@
-version: latest
+version: 1
 
 sphinx:
   configuration: source/conf.py
